@@ -1,0 +1,49 @@
+PING i.ua (91.198.36.14) 56(84) bytes of data.
+64 bytes from www.i.ua (91.198.36.14): icmp_seq=1 ttl=60 time=12.4 ms
+64 bytes from www.i.ua (91.198.36.14): icmp_seq=2 ttl=60 time=12.0 ms
+64 bytes from www.i.ua (91.198.36.14): icmp_seq=3 ttl=60 time=12.7 ms
+64 bytes from www.i.ua (91.198.36.14): icmp_seq=4 ttl=60 time=12.5 ms
+
+--- i.ua ping statistics ---
+4 packets transmitted, 4 received, 0% packet loss, time 3004ms
+rtt min/avg/max/mdev = 11.954/12.371/12.681/0.265 ms
+PING dou.ua (178.79.140.30) 56(84) bytes of data.
+64 bytes from li196-30.members.linode.com (178.79.140.30): icmp_seq=1 ttl=53 time=54.1 ms
+64 bytes from li196-30.members.linode.com (178.79.140.30): icmp_seq=2 ttl=53 time=53.9 ms
+64 bytes from li196-30.members.linode.com (178.79.140.30): icmp_seq=3 ttl=53 time=53.4 ms
+64 bytes from li196-30.members.linode.com (178.79.140.30): icmp_seq=4 ttl=53 time=53.7 ms
+
+--- dou.ua ping statistics ---
+4 packets transmitted, 4 received, 0% packet loss, time 3005ms
+rtt min/avg/max/mdev = 53.377/53.760/54.131/0.273 ms
+PING dou.ua (178.79.140.30) 56(84) bytes of data.
+64 bytes from li196-30.members.linode.com (178.79.140.30): icmp_seq=1 ttl=53 time=54.6 ms
+64 bytes from li196-30.members.linode.com (178.79.140.30): icmp_seq=2 ttl=53 time=54.3 ms
+64 bytes from li196-30.members.linode.com (178.79.140.30): icmp_seq=3 ttl=53 time=54.3 ms
+64 bytes from li196-30.members.linode.com (178.79.140.30): icmp_seq=4 ttl=53 time=54.1 ms
+
+--- dou.ua ping statistics ---
+4 packets transmitted, 4 received, 0% packet loss, time 3006ms
+rtt min/avg/max/mdev = 54.065/54.308/54.571/0.179 ms
+PING dou.ua (178.79.140.30) 56(84) bytes of data.
+64 bytes from li196-30.members.linode.com (178.79.140.30): icmp_seq=1 ttl=53 time=54.6 ms
+64 bytes from li196-30.members.linode.com (178.79.140.30): icmp_seq=2 ttl=53 time=53.7 ms
+
+--- dou.ua ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1002ms
+rtt min/avg/max/mdev = 53.741/54.149/54.558/0.408 ms
+PING pinterest.com (151.101.0.84) 56(84) bytes of data.
+64 bytes from 151.101.0.84 (151.101.0.84): icmp_seq=1 ttl=56 time=30.3 ms
+64 bytes from 151.101.0.84 (151.101.0.84): icmp_seq=2 ttl=56 time=29.9 ms
+64 bytes from 151.101.0.84 (151.101.0.84): icmp_seq=3 ttl=56 time=29.9 ms
+64 bytes from 151.101.0.84 (151.101.0.84): icmp_seq=4 ttl=56 time=29.9 ms
+64 bytes from 151.101.0.84 (151.101.0.84): icmp_seq=5 ttl=56 time=29.8 ms
+64 bytes from 151.101.0.84 (151.101.0.84): icmp_seq=6 ttl=56 time=29.7 ms
+64 bytes from 151.101.0.84 (151.101.0.84): icmp_seq=7 ttl=56 time=30.2 ms
+64 bytes from 151.101.0.84 (151.101.0.84): icmp_seq=8 ttl=56 time=29.8 ms
+64 bytes from 151.101.0.84 (151.101.0.84): icmp_seq=9 ttl=56 time=29.9 ms
+64 bytes from 151.101.0.84 (151.101.0.84): icmp_seq=10 ttl=56 time=29.5 ms
+
+--- pinterest.com ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9015ms
+rtt min/avg/max/mdev = 29.481/29.873/30.263/0.210 ms
