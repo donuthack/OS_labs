@@ -4,19 +4,19 @@
 ###Junior Level###
 
 
-#whoami
+whoami
 
-#id
+id
 
-#id root
+id root
 
-#cat /etc/passwd
+cat /etc/passwd
 
-#cat /etc/passwd | wc -l
+cat /etc/passwd | wc -l
 
-#cat /var/log/boot.log.1
+cat /var/log/boot.log.1
 
-#sudo cat /var/log/boot.log.1
+sudo cat /var/log/boot.log.1
 
 
 ###Middle Level###
@@ -25,7 +25,7 @@
 
 #groups
 
-#cat /etc/group | grep -w "$(whoami)" | cut -d ":" -f1
+cat /etc/group | grep -w "$(whoami)" | cut -d ":" -f1
 
 cat /etc/passwd | grep -w "root" | cut -d ":" -f7
 
@@ -45,7 +45,7 @@ sudo userdel -r vasya
 
 
 
-# SENIOR
+### Senior Level ###
 
 
 
